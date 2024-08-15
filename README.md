@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rian Tiwari</h1>
 <h3 align="center">B.S. in Computer Science & Applied Mathematics @ University of Maryland</h3>
-<img align="right" alt="Coding" width="350" height="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="350" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **AI-Curated Learning Playlists Website**
 
